@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project1 Heaney</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Ten Question Flag Quiz</string>
+    <string name="question">Question 1 of 10</string>
+    <string name="img_descriptioin">countryFlag</string>
+    <string name="country_prompt">Guess the Country</string>
+    <string name="countryButton1">Grenada</string>
+    <string name="countryButton2">Puerto Rico</string>
+    <string name="countryButton3">Nicaragua</string>
+    <string name="countryButton4">Bahamas</string>
+    <string name="countryButton5">Guatemala</string>
+    <string name="countryButton6">Aruba</string>
+    <string name="userOption1">Select Number of Choices</string>
+    <string name="userOption2">Select Regions</string>
+
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Screen 2 - Heaney </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="altTextIcon">AndroidLogo</string>
+    <string name="avatar1">Personal Picture</string>
+    <string name="avatar2">My Dog</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen3</string>
+    <string name="website1">Facebook</string>
+    <string name="website2">Google</string>
+    <string name="website3">myWPI</string>
+    <string name="action_settings">Settings</string>
+</resources>
